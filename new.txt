@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 commit -1 from online editor
+=======
+commit -1 from online editor
+>>>>>>> 142ce0caae0d6d3e99b21ae49085ee9bdf78f21d
